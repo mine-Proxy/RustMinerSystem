@@ -199,7 +199,7 @@ RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
 
 # 定制专属版本说明
 
-1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a>
+1. 加入聊天群组 <a href="https://t.me/TcstMinerSystem">https://t.me/TcstMinerSystem</a>
 2. 请整理以下格式数据发给群主或管理员：
 
 示例：
