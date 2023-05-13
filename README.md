@@ -4,7 +4,7 @@
 
 # RustMinerSystem
 
-<h2>A mine pool level operation and maintenance tools👍 </h2>
+<h2>一款矿池级别的运维工具👍 </h2>
 
 <img src="/image/logo.png" alt="Logo" width="170">
 
@@ -12,41 +12,41 @@
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
 
-<a href="https://github.com/mine-Proxy/TcstMinerSystem">English</a>｜<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/README-ZN/README.md">简体中文</a>
+<a href="https://github.com/EvilGenius-dot/RustMinerSystem">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n">简体中文</a>
 
-The powerful and experienced monitoring and recording system can solve the abnormal situation of the farm immediately.
+强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
 
-The hash rate statistics at the level of mining pool, and the hash rate of any currency can be seen at a glance
+在矿池级别上统计哈希率，并可以一目了然地查看任何货币的哈希率。
 
-Automatically adjust the working mode and data flow according to the terminal equipment to avoid highly ineffective task sharing
+根据终端设备自动调整工作模式和数据流量，避免高度低效的任务共享。
 
-The active defense and filtering system improves the security of the environment and finds hazards in time.
+主动防御和过滤系统提高了环境的安全性并及时发现危险。
 
-The front-end client has high-performance TCP integration and compression technology. No matter how far the farm is from the mining pool, they can effectively reduce farm delay and prevent all middlemen from attacking.
+前端客户端具有高性能的TCP集成和压缩技术。无论矿场距离矿池有多远，它们都可以有效地减少矿场延迟并防止所有中间人攻击。
 
-The commission system compatible with various algorithms can reasonably improve the mine profits.
+兼容各种算法的佣金系统可以合理地提高矿场利润。
 
-Built-in algorithm engines can update popular currencies without heating.
+内置算法引擎可以更新流行货币而不会产生热量。
 
-The dashboard is perfectly compatible with various devices, with PC, MOBILE, and PAD at a glance.
+仪表盘完美兼容各种设备，PC、MOBILE、PAD一目了然。
 
-Perfect control logic, even if the service charge is turned on, the mine pool end will not show that the equipment is offline.
+完美的控制逻辑，即使开启了服务费，矿池端也不会显示设备离线。
 
-Based on the development of Rust, efficient language brings unparalleled performance.
+基于Rust的开发，高效的语言带来无与伦比的性能。
 
-High-performance, next-generation operation and maintenance experience, which is a professional farm operation and maintenance system-RustMinerSystem brought by the top R&D team and RUST experts in Silicon Valley
+高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-RustMinerSystem
 
-(Partial Preview)
+（部分预览）
 
 <img src="/image/1.png" alt="Logo" width="670">
 
 </div>
 
-# Free customized version
+# 免费定制专属版本
 
-[Click for free customized version description](#dingzhi)
+[点击查看免费定制专属版本说明](#dingzhi)
 
-# Join the discussion group
+# 加入聊天组
 
 Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
 
@@ -54,17 +54,17 @@ Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOT
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
-# Special thanks
+# 特别感谢
 
 <img src="/image/icon-logo-blue.png" alt="Logo" width="100">
 
 <img src="/image/poolin.svg" alt="Logo" width="100">
 
-<p>Thanks for the technical support provided by the mine pool😊</p>
+<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
 
-# Supported algorithms
+# 支持的算法
 
-For the supported algorithm, the corresponding currency will be updated without heat at any time, and the client 0 will bear the burden
+对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
 
 
 | arithmetic      | Support     | Relevant currency |
@@ -75,9 +75,9 @@ For the supported algorithm, the corresponding currency will be updated without 
 | KHEAVYHASH      | ✅          | KASPA...
 
 
-# Service Agreement
+# 服务协议
 
-RustMinerSystem is subject to the supervision of Hong Kong laws. Please note that the legal requirements of various countries/regions may restrict such products and services. Therefore, this product and service as well as some functions may not be available or may be restricted in some jurisdictions or regions or some users. You should understand and comply with the local laws and regulations. If you use this product, the default representative accepts the above license. If the legal problems caused by this product are irrelevant to this product.
+RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
 
 
 
@@ -90,22 +90,22 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
 [stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
 [stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
 
-# Installation 
+# 安装 
 
 1. **Install**
 
-   Select your applicable operating system
+   选择适合您的操作系统
 
    <details open>
    <summary>Linux</summary>
 
-   > Run the following shell instructions to run the toolkit
+   > 运行以下shell指令以运行工具包
    >
    > ```sh
    >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
    > ```
    >
-   > After running successfully, you will see the following menu.
+   > 成功运行后，您将看到以下菜单。
    >
 
    </details>
@@ -113,7 +113,7 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
    <details open>
    <summary>Windows</summary>
 
-   > Please download the specified version directly from the Windows directory of this project:
+   > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
    > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
@@ -123,138 +123,137 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
    </details>
 
 
-# Version Log
+# 更新日志
 ```
 1.0.1
-Fixed a bug caused by links
+修复了链接导致的bug
 
 1.0.0
-Open test
+开放性测试
 
 0.9.999
-A serious security breach was fixed
+修复了一个严重的安全漏洞
 
-Optimized commission logic for all currencies
+优化了所有币种的手续费逻辑
 
 0.9.99
-Optimize BTC, LTC
+优化BTC, LTC
 
-Optimized mean delay display is not accurate
+优化平均延迟显示不准确
 
 0.9.98
-Optimize the bottom layer and reduce losses
+优化底层, 降低损耗
 
 0.9.97
-Fixed a serious bug in program pseudo death
+修复了程序假死的严重BUG
 
 0.9.96
-The perfect BTC@KAS
+完美的 BTC@KAS
 
 0.9.95
-fix...
+修复了一些八阿哥
 
 0.9.94
-fix...
+修复了一些八阿哥
 
 0.9.93
-fix...
+修复了一些八阿哥
 
 0.9.92
-Fixed a bug where the hot update wallet would cause the application to crash. Fixed some kernel kas connection issues 
- 
-Fixed ltc small power display bug
+修复了部分内核kas连不进来的问题
+
+完善了ltc小算力显示的bug
 
 0.9.91
-Fixed a bug where the hot update wallet caused the program to crash
+修复了热更新钱包导致程序崩溃的bug
 
-Fixed kas not working properly due to changes in the previous version
+修复了因为上个版本改动导致的kas无法正常工作的问题
 
 0.9.9
-Optimized a lot of details
+优化了很多细节
 
-Optimized Yami equipment
+优化的亚米设备
 
-Further reducing the probability of ineffectiveness (although already very low)
+进一步降低无效的概率（尽管已经很低）
 
-Optimized memory and CPU usage
+优化的内存和CPU使用率
 
 0.1.4
-Optimize e9 and e9pro
+优化e9以及e9pro
 
 0.1.3
-Optimizing Antminer s17
+优化了蚂蚁s17
 
 0.1.2
-Fixed a serious issue of task chaos for multiple devices under Rust
+修复了Rust下多台设备任务混乱的严重问题
 
-Fixed issue where kas was unable to receive tasks
+修正了kas无法接收任务的问题
 
 0.1.0
-Release of internal test version
+内部测试版本
 ```
 
-# Help
+# 帮助
 
 <span id="dingzhi"></span>
 
-# Customize the version description
+# 定制专属版本说明
 
-1. Join a chat group <a href="https://t.me/rustkt">https://t.me/rustkt</a>
-2. Please organize the following format data and send it to the group master or administrator:
+1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a>
+2. 请整理以下格式数据发给群主或管理员：
 
-Example:  
+示例：
 
-Software name  
+软件名称
 
-Project address  
+项目地址
 
-logo and Introduction
-
-—————————————————
-
-currency: BTC,
-
-Built-in commission rate: ratio
-
-Built-in anonymous wallet: xxxxxxxxxxxxxx
-
-Built-in subaccount: xxxxxxxxxxxx
-
-The device name is displayed in the mine pool: xxxxx
+logo及简介
 
 —————————————————
 
-currency: ETC
+币种: BTC,
 
-Built-in commission rate: ratio
+内置手续费比例: 百分之1
 
-Built-in anonymous wallet: xxxxxxxxxxxxxx
+内置匿名钱包： xxxxxxxxxxxxxx
 
-Built-in subaccount: xxxxxxxxxxxx
+内置子账号: xxxxxxxxxxxx
 
-The device name is displayed in the mine pool: xxxxx
+矿池内显示设备名称: xxxxx
 
 —————————————————
 
-currency: ETC+ZIL
+币种: ETC
 
-Built-in commission rate: ratio
+内置手续费比例: 百分之1
 
-Built-in anonymous wallet: etc匿名钱包.zil匿名钱包
+内置匿名钱包： xxxxxxxxxxxxxx
 
-Built-in subaccount: xxxxxxxxxxxx
+内置子账号: xxxxxxxxxxxx
 
-The device name is displayed in the mine pool: xxxxx
+矿池内显示设备名称: xxxxx
+
+—————————————————
+
+币种: ETC+ZIL
+
+内置手续费比例: 百分之1
+
+内置匿名钱包： etc匿名钱包.zil匿名钱包
+
+内置子账号: xxxxxxxxxxxx
+
+矿池内显示设备名称: xxxxx
 
 —————————————————
 
 ......
 
-The built-in service fee pool address is the same as the target address in the software by default, and the service fee will be drawn to the target pool address of the port. Each currency needs to provide an anonymous wallet and a sub-account. For a mine pool like BTC, which does not support anonymous mining, only a sub-account can be provided to ensure that it can work normally in any supported type of mine pool 
- 
-If you do not make the installation link, project home page, etc., you can contact the group master or administrator for free hosting services
+内置手续费矿池地址默认与软件内目标地址一致, 手续费会抽至端口的目标矿池地址,  每个币种需要提供一个匿名钱包和一个子账号,  类似BTC这种不支持匿名挖矿的矿池, 只提供子账号即可, 以确保在任意支持类型的矿池中可以正常工作
+
+如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
 
 # Other issues
 
-This is a free software, which does not charge any fees. It only takes 0.2% of the computing power of the terminal equipment from the technical point of view as a technical return.
-
+这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。
