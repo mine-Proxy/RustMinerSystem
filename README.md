@@ -100,7 +100,7 @@ TcstMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+   >  bash <(curl -s -L https://github.com/mine-Proxy/TcstMinerSystem/raw/main/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -114,7 +114,7 @@ TcstMinerSystem受香港法律监管。请注意，不同国家/地区的法律�
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+   > https://github.com/mine-Proxy/TcstMinerSystem/tree/main/windows
    > ```
    >
 
