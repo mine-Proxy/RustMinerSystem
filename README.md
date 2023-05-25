@@ -8,9 +8,7 @@
 
 <img src="/image/logo.png" alt="Logo" width="170">
 
-[![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
-[![Downloads][downloads-badge]][releases]
-[![Stargazers][stars-shield]][stars-url]
+
 
 <a href="https://github.com/mine-Proxy/TcstMinerSystem">简体中文</a>｜<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/README-ZN">English</a>
 
