@@ -2,7 +2,7 @@
 
 VERSION="1.0.3"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
-ORIGIN_EXEC="rustminersystem-${VERSION}"
+ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
 SERVICE_NAME="rustservice"
 
