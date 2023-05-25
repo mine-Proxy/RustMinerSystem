@@ -8,9 +8,6 @@
 
 <img src="/image/logo.png" alt="Logo" width="170">
 
-[![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
-[![Downloads][downloads-badge]][releases]
-[![Stargazers][stars-shield]][stars-url]
 
 <a href="https://github.com/mine-Proxy/TcstMinerSystem">English</a>｜<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/README-ZN/README.md">简体中文</a>
 
@@ -46,11 +43,7 @@ High-performance, next-generation operation and maintenance experience, which is
 
 [Click for free customized version description](#dingzhi)
 
-# Join the discussion group
 
-Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
-
-Telegram：<a href="https://t.me/+Zrz9d5gUR7YzOTVl">https://t.me/+Zrz9d5gUR7YzOTVl</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 
@@ -102,7 +95,7 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
    > Run the following shell instructions to run the toolkit
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+   >  bash <(curl -s -L https://github.com/mine-Proxy/TcstMinerSystem/raw/main/install.sh)
    > ```
    >
    > After running successfully, you will see the following menu.
@@ -116,7 +109,7 @@ RustMinerSystem is subject to the supervision of Hong Kong laws. Please note tha
    > Please download the specified version directly from the Windows directory of this project:
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+   > https://github.com/mine-Proxy/TcstMinerSystem/tree/main/windows
    > ```
    >
 
@@ -199,7 +192,7 @@ Release of internal test version
 
 # Customize the version description
 
-1. Join a chat group <a href="https://t.me/rustkt">https://t.me/rustkt</a>
+1. Join a chat group <a href="https://t.me/TcstMinerSystem">https://t.me/TcstMinerSystem</a>
 2. Please organize the following format data and send it to the group master or administrator:
 
 Example:  
