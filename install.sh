@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="1.0.3"
+VERSION="1.0.4"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
@@ -230,6 +230,7 @@ start() {
             echo "|----------------------------------------------------------------|"
             echo "${m_6}${port}, ${m_7}"
             echo "${m_8}"
+	    echo "如有任何问题请加QQ群：893145602"
             echo "|----------------------------------------------------------------|"
         else
             echo "${m_40}"
