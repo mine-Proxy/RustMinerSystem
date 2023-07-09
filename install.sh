@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="1.0.4"
+VERSION="2.0.4"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
@@ -340,6 +340,7 @@ ISSUE() {
     echo "0.9.999"
     echo "1.0.0"
     echo "1.0.1"
+    echo "2.0.4"
 }
 
 filterResult() {
