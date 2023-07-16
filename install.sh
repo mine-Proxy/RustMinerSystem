@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="2.0.4"
+VERSION="2.0.5"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
@@ -231,6 +231,7 @@ start() {
             echo "${m_6}${port}, ${m_7}"
             echo "${m_8}"
 	    echo "如有任何问题请加QQ群：893145602"
+            echo "微信：xiaoyu1222006"
             echo "|----------------------------------------------------------------|"
         else
             echo "${m_40}"
@@ -341,6 +342,7 @@ ISSUE() {
     echo "1.0.0"
     echo "1.0.1"
     echo "2.0.4"
+    echo "2.0.5"
 }
 
 filterResult() {
