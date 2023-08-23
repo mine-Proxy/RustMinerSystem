@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#bash <(curl -s -L https://github.com/mine-Proxy/TcstMinerSystem/RMS/main/install.sh)
+#bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TcstMinerSystem/RMS/main/install.sh)
 
 clear
 
