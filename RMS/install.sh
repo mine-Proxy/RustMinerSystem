@@ -1,9 +1,7 @@
 #!/bin/bash
 
-#bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/install.sh)
-#bash <(curl -s -L -k https://raw.njuu.cf/EvilGenius-dot/RMS/main/install.sh)
-#bash <(curl -s -L -k https://hub.yzuu.cf/EvilGenius-dot/RMS/main/install.sh)
-#bash <(curl -s -L -k https://hub.nuaa.cf/EvilGenius-dot/RMS/main/install.sh)
+#bash <(curl -s -L https://github.com/mine-Proxy/TcstMinerSystem/RMS/main/install.sh)
+
 clear
 
 [ $(id -u) != "0" ] && { echo "请使用ROOT用户进行安装, 输入sudo -i切换。"; exit 1; }
@@ -28,15 +26,15 @@ ROUTE_2="https://hub.njuu.cf"
 ROUTE_3="https://hub.yzuu.cf"
 ROUTE_4="https://hub.nuaa.cf"
 
-ROUTE_EXEC_1="/EvilGenius-dot/RMS/raw/main/x86_64-musl/rms"
-ROUTE_EXEC_2="/EvilGenius-dot/RMS/raw/main/x86_64-android/rms"
-ROUTE_EXEC_3="/EvilGenius-dot/RMS/raw/main/arm-musleabi/rms"
-ROUTE_EXEC_4="/EvilGenius-dot/RMS/raw/main/arm-musleabihf/rms"
-ROUTE_EXEC_5="/EvilGenius-dot/RMS/raw/main/armv7-musleabi/rms"
-ROUTE_EXEC_6="/EvilGenius-dot/RMS/raw/main/armv7-musleabihf/rms"
-ROUTE_EXEC_7="/EvilGenius-dot/RMS/raw/main/i586-musl/rms"
-ROUTE_EXEC_8="/EvilGenius-dot/RMS/raw/main/i686-android/rms"
-ROUTE_EXEC_9="/EvilGenius-dot/RMS/raw/main/aarch64-musl/rms"
+ROUTE_EXEC_1="/mine-Proxy/TcstMinerSystem/RMS/raw/main/x86_64-musl/rms"
+ROUTE_EXEC_2="/mine-Proxy/TcstMinerSystem/RMS/raw/main/x86_64-android/rms"
+ROUTE_EXEC_3="/mine-Proxy/TcstMinerSystem/RMS/raw/main/arm-musleabi/rms"
+ROUTE_EXEC_4="/mine-Proxy/TcstMinerSystem/RMS/raw/main/arm-musleabihf/rms"
+ROUTE_EXEC_5="/mine-Proxy/TcstMinerSystem/RMS/raw/main/armv7-musleabi/rms"
+ROUTE_EXEC_6="/mine-Proxy/TcstMinerSystem/RMS/raw/main/armv7-musleabihf/rms"
+ROUTE_EXEC_7="/mine-Proxy/TcstMinerSystem/RMS/raw/main/i586-musl/rms"
+ROUTE_EXEC_8="/mine-Proxy/TcstMinerSystem/RMS/raw/main/i686-android/rms"
+ROUTE_EXEC_9="/mine-Proxy/TcstMinerSystem/RMS/raw/main/aarch64-musl/rms"
 
 TARGET_ROUTE=""
 TARGET_ROUTE_EXEC=""
@@ -238,6 +236,7 @@ start() {
         if [ $? -eq 0 ]; then
             echo "|----------------------------------------------------------------|"
             echo "程序启动成功, 访问此地址: 局域网IP:42703"
+	    echo "如不会可联系技术微信 xiaoyu1222006"
             echo "|----------------------------------------------------------------|"
         else
             echo "程序启动失败!!!"
@@ -306,10 +305,7 @@ clear
 
 echo "------RMS Linux------"
 echo "请选择下载线路:"
-echo "1. 线路1（github官方地址, 如无法下载请选择其他线路）"
-echo "2. 线路2"
-echo "3. 线路3"
-echo "4. 线路4"
+echo "1. 线路1（github官方地址）"
 echo "---------------------"
 
 read -p "$(echo -e "[1-4]：")" targetRoute
