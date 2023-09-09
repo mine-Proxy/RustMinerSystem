@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.4.1"
+VERSION="3.5.0"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
@@ -230,9 +230,11 @@ start() {
             echo "|----------------------------------------------------------------|"
             echo "${m_6}${port}, ${m_7}"
             echo "${m_8}"
-	    echo "v3.4.1版本优化大算力抽水抽不够问题！"
+	    echo "v3.5.0版本优化大算力抽水抽不够问题！优化了蚂蚁出产的ks3机器"
+            echo "增加了kenc协议以及socks5，下版本开放socks5协议, 现在可以直接在rust内开启这些协议"
 	    echo "如有任何问题请加QQ群：893145602"
             echo "微信：xiaoyu1222006"
+	    echo "私人定制抽水请联系我"
             echo "|----------------------------------------------------------------|"
         else
             echo "${m_40}"
@@ -350,6 +352,7 @@ ISSUE() {
     echo "3.2.4"
     echo "3.3.0"
     echo "3.4.0"
+    echo "3.5.0"
 }
 
 filterResult() {
