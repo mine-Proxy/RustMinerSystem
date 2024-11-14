@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.1.4"
+VERSION="4.1.6"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
