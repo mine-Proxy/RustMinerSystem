@@ -2,252 +2,315 @@
 
 <div align="center">
 
-# TcstMinerSystem
+# <img src="./image/logo.gif" alt="Logo" width="24">TCMiner
 
-<h2>一款矿池级别的运维工具👍 </h2>
+### <a href="https://github.com/mine-Proxy/TCMiner">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
-<img src="/image/logo.png" alt="Logo" width="170">
+<img src="./image/1.png" alt="Logo">
+
+<br>
+<br>
+
+<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TcstMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/i18n/zh-RU">Русский язык</a>
+
+<a href="#dingzhi">
+   <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
+</a>
+<a href="#anzhuang">
+   <img src="https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%F0%9F%91%88-00b9ff">
+</a>
+<a href="#liaotian" target="_blank">
+   <img src="https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E8%81%8A%E5%A4%A9-%F0%9F%91%88-00b9ff">
+</a>
+<a href="#gengxin" target="_blank">
+   <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%F0%9F%91%88-00b9ff">
+</a>
+<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/RMS" target="_blank">
+   <img src="https://img.shields.io/badge/RMS%E6%9C%AC%E5%9C%B0%E5%AE%A2%E6%88%B7%E7%AB%AF-%F0%9F%91%88-00b9ff">
+</a>
 
 
 
-<a href="https://github.com/mine-Proxy/TcstMinerSystem">简体中文</a>｜<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/README-ZN">English</a>
-
-强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
-
-在矿池级别上统计哈希率，并可以一目了然地查看任何货币的哈希率。
-
-根据终端设备自动调整工作模式和数据流量，避免高度低效的任务共享。
-
-主动防御和过滤系统提高了环境的安全性并及时发现危险。
-
-前端客户端具有高性能的TCP集成和压缩技术。无论矿场距离矿池有多远，它们都可以有效地减少矿场延迟并防止所有中间人攻击。
-
-兼容各种算法的佣金系统可以合理地提高矿场利润。
-
-内置算法引擎可以更新流行货币而不会产生热量。
-
-仪表盘完美兼容各种设备，PC、MOBILE、PAD一目了然。
-
-完美的控制逻辑，即使开启了服务费，矿池端也不会显示设备离线。
-
-基于Rust的开发，高效的语言带来无与伦比的性能。
-
-高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-TcstMinerSystem
-
-（部分预览）
-
-<img src="/image/1.png" alt="Logo" width="670">
+[![VIPORMiner][VIPORMiner.io-badge]][VIPORMiner.io]
+[![Stargazers][stars-shield]][stars-url]
+<!-- <a href="https://github.com/CakeSystem/CakeSystem">简体中文</a>｜<a href="https://github.com/CakeSystem/CakeSystem/tree/main/Readme/i18n">English</a> -->
 
 </div>
 
+# TcstMinerSystem
+
+<table>
+   <tr>
+   <td>
+
+<span id="anzhuang"></span>
+
+### 👉 **服务协议**
+
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本产品并非VPN类型产品, 因为他无法使不允许地区访问禁止访问的内容。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本产品为矿机、矿场管理软件，并非通过不正当手段获取矿机数据, 所有接入的设备均需设备拥有者主动设置矿机连接地址，以此确保任意使用本程序的客户拥有知情权。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您不在任何恐怖活动组织及恐怖活动人员名单中，如联合国安理会决议中所列的恐怖活动组织及恐怖活动人员名单。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您未被任何国家或地区的行政执法机构限制或禁止使用本程序。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您非古巴、伊朗、朝鲜、叙利亚以及其他受到相关国家政府或国际机构执行制裁的国家或地区居民。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您非限制或禁止开展数字货币相关活动国家或地区的居民，包括但不限于中国大陆地区等。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您使用本程序提供的服务在您所在的国家或地区符合相关法律法规和政策。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您同意：如因您所在国家或地区的法律法规和政策或其他任何适用法律的原因，导致您使用本程序的服务违法，您将独立承担相关法律风险和责任，您无条件且不可撤销地放弃向本程序进行追索的权利。
+
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
+   </p>
+
+   </td>
+   </tr>
+   <tr>
+   <td>
 
 
-# 加入聊天组
+### 👉 **Linux安装**
 
-Telegram：<a href="https://t.me/TcstMinerSystem">https://t.me/TcstMinerSystem</a>
+   <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
-<!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
+   ```sh
+      bash <(curl -s -L https://github.com/mine-Proxy/TcstMinerSystem/raw/main/install.sh) 
+   ```
+   
+   <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
+   
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./image/install.gif">
 
-# 特别感谢
+   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
-<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
+   <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
+   
+   &emsp;&emsp;ARM:
 
-<img src="/image/poolin.svg" alt="Logo" width="100">
+   ```sh
+     bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TcstMinerSystem/main/arm-install.sh)
+   ```
 
-<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
+   &emsp;&emsp;ARMV7:
 
-# 支持的算法
+   ```sh
+     bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TcstMinerSystem/main/armv7-install.sh)
+   ```
 
-对于支持的算法，相应的货币将随时热更新，客户端0将承担负担
+   </td>
+   </tr>
+   <tr>
+   <td>
 
+### 👉 **Windows安装**
 
-| arithmetic      | Support     | Relevant currency |
-| --------------- | ------------| ------------------|
-| SHA256          | ✅          | BTC、BCH...        
-| ETHASH          | ✅          | ETC、ETHW、ETHF、ETC+ZIL、ETHW+ZIL、ETHF+ZIL
-| SCRYPT          | ✅          | LTC...
-| KHEAVYHASH      | ✅          | KASPA...
+   <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
+   ```sh
+     https://github.com/mine-Proxy/TcstMinerSystem/tree/main/windows
+   ```
 
-# 服务协议
+   <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
 
-TcstMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
+   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx   xloqslz913</p>
 
+   </td>
+   </tr>   
+   <tr>
+   <td>
+  
+### 👉 **支持的算法及币种**
 
+<p>&emsp;&emsp;对于支持的算法，相应的货币将随时热更新</p>
 
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./image/icon-btc.png" alt="Logo" width="25">
+<img src="./image/icon-bch.png" alt="Logo" width="25">
+<img src="./image/icon-etc.png" alt="Logo" width="25">
+<img src="./image/icon-ethw.png" alt="Logo" width="25">
+<img src="./image/icon-ethf.png" alt="Logo" width="25">
+<img src="./image/icon-octa.png" alt="Logo" width="25">
+<img src="./image/icon-etc+zil.png" alt="Logo" height="25">
+<img src="./image/icon-ethw+zil.png" alt="Logo" height="25">
+<img src="./image/icon-ethf+zil.png" alt="Logo" height="25">
+<img src="./image/icon-ltc.png" alt="Logo" width="25">
+<img src="./image/icon-kaspa.png" alt="Logo" width="25">
+<img src="./image/icon-kda.png" alt="Logo" width="25">
+<img src="./image/icon-sc.png" alt="Logo" width="25">
+<img src="./image/icon-hns.png" alt="Logo" width="25">
+<img src="./image/icon-cfx.png" alt="Logo" width="25">
+<img src="./image/icon-dnx.png" alt="Logo" width="25">
+<img src="./image/icon-ckb.png" alt="Logo" width="25">
+<img src="./image/icon-zen.png" alt="Logo" width="25">
+<img src="./image/icon-zec.png" alt="Logo" width="25">
+<img src="./image/icon-lbc.png" alt="Logo" width="25">
+<img src="./image/icon-dash.png" alt="Logo" width="25">
+<img src="./image/icon-sero.png" alt="Logo" width="25">
+<img src="./image/icon-alph.png" alt="Logo" width="25">
+<img src="./image/icon-xmr.png" alt="Logo" width="25">
+<img src="./image/icon-zeph.png" alt="Logo" width="25">
+<img src="./image/icon-rvn.png" alt="Logo" height="25">
+<img src="./image/icon-rxd.png" alt="Logo" width="25">
+<img src="./image/icon-erg.png" alt="Logo" width="25">
+</div>
 
-[rustminersystem.io]: https://github.com/EvilGenius-dot/RustMinerSystem
-[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v1.0.1-green?logo=rust
-[downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/EvilGenius-dot/RustMinerSystem/releases
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
-[stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
-
-# 安装 
-
-1. **Install**
-
-   选择适合您的操作系统
-
-   <details open>
-   <summary>Linux</summary>
-
-   > 运行以下shell指令以运行工具包
-   >
-   > ```sh
-   >  bash <(curl -s -L https://github.com/mine-Proxy/TcstMinerSystem/raw/main/install.sh)
-   > ```
-   >
-   > 成功运行后，您将看到以下菜单。
-   >
-
-   </details>
-
-   <details open>
-   <summary>Windows</summary>
-
-   > 请直接从此项目的Windows目录下载指定的版本：
-   >
-   > ```sh
-   > https://github.com/mine-Proxy/TcstMinerSystem/tree/main/windows
-   > ```
-   >
-
-   </details>
-
-
-# 更新日志
+```text
+  算法                支持的币种
+  SHA256              BTC、BCH、SPACE
+  ETHASH              ETC、ETHW、ETHF、OCTA、 ETC+ZIL、ETHW+ZIL、ETHF+ZIL、CLORE、NEURAI、NEOXA、ZIL、CLO、UBQ、EGAZ、ELH、AVS、CAU、PAC、PWR、BTN、DUBX、XPB、REDEV2、RTH、DOGETHER
+  SCRYPT              LTC、BEL
+  KHEAVYHASH          KASPA、PYI、SDR
+  KARLSENHASH         KLS
+  BLAKE2S             KDA
+  BLAKE2B             SC、HNS
+  OCTOPUS             CFX
+  DYNEXSOLVE          DNX
+  EAGLESONG           CKB
+  EQUIHASH            ZEN、ZEC
+  LBRY                LBC
+  X11                 DASH、BLOCX
+  PROGPOW             SERO
+  BLAKE3              ALPH、IRON
+  RANDOMX             XMR、ZEPH、NEVO
+  KAWPOW              RVN、MEWC、AIPG
+  SHA512256D          RXD
+  AUTOYKOS2           ERG                
+  NEXAPOW             NEXA
+  GHOSTRIDER          RTM、RTC、MECU、MAXE、NIKI、SUBI、NEVO
+  CUCKATOO32          GRIN
 ```
-1.0.1
-修复了链接导致的bug
 
-1.0.0
-开放性测试
 
-0.9.999
-修复了一个严重的安全漏洞
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-优化了所有币种的手续费逻辑
+<span id="liaotian"></span>
 
-0.9.99
-优化BTC, LTC
+### 👉 **加入聊天组**
 
-优化平均延迟显示不准确
+<p>&emsp;&emsp;QQ群：893145602 
 
-0.9.98
-优化底层, 降低损耗
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/TcstMinerSystem">https://t.me/TcstMinerSystem</a></p>
 
-0.9.97
-修复了程序假死的严重BUG
+<!-- <p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p> -->
 
-0.9.96
-完美的 BTC@KAS
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-0.9.95
-修复了一些八阿哥
+### 👉 **特别感谢**
 
-0.9.94
-修复了一些八阿哥
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./image/icon-logo-blue.png" alt="Logo" width="100">
 
-0.9.93
-修复了一些八阿哥
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./image/poolin.svg" alt="Logo" width="100">
 
-0.9.92
-修复了部分内核kas连不进来的问题
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/image/5.png" alt="Logo" width="100">
 
-完善了ltc小算力显示的bug
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/image/6.png" alt="Logo" width="100">
 
-0.9.91
-修复了热更新钱包导致程序崩溃的bug
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/image/hd_logo.png" alt="Logo" width="100">
 
-修复了因为上个版本改动导致的kas无法正常工作的问题
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/image/8.png" alt="Logo" width="100">
 
-0.9.9
-优化了很多细节
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感谢以上矿池在一定范围内提供了技术支持😊</p>
 
-优化的亚米设备
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-进一步降低无效的概率（尽管已经很低）
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-优化的内存和CPU使用率
+<span id="gengxin"></span>
 
-0.1.4
-优化e9以及e9pro
+### 👉 **更新日志**
 
-0.1.3
-优化了蚂蚁s17
+   <p>&emsp;&emsp;<a href="https://github.com/mine-Proxy/TcstMinerSystem/releases">点击查看更新日志</a>
 
-0.1.2
-修复了Rust下多台设备任务混乱的严重问题
 
-修正了kas无法接收任务的问题
-
-0.1.0
-内部测试版本
-```
-
-# 帮助
+   </td>
+   </tr>
+   <tr>
+   <td>
 
 <span id="dingzhi"></span>
 
-# 定制专属版本说明
 
-1. 加入聊天群组 <a href="https://t.me/TcstMinerSystem">https://t.me/TcstMinerSystem</a>
-2. 请整理以下格式数据发给群主或管理员：
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-示例：
+<span id="dingzhi"></span>
 
-软件名称
+### 👉 **定制专属版本说明**
 
-项目地址
+   <p>&emsp;&emsp;1. 加入聊天群组QQ群 ：893145602
+      
+   <p>&emsp;&emsp;Telegram：<a href="https://t.me/TcstMinerSystem">https://t.me/TcstMinerSystem</a></p>
+   
+   <p>&emsp;&emsp;2. 联系群主或管理员提供相关信息即可免费定制。</p>
 
-logo及简介
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-—————————————————
+### 👉 **针对E9pro的一些优化措施**
 
-币种: BTC,
+   <p>&emsp;&emsp;矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置</p>
 
-内置手续费比例: 百分之1
+   </td>
+   </tr>
+   <tr>
+   <td>
 
-内置匿名钱包： xxxxxxxxxxxxxx
+### 👉 **端口导入、导出**
 
-内置子账号: xxxxxxxxxxxx
+   <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
 
-矿池内显示设备名称: xxxxx
+   <p>&emsp;&emsp;<a href="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
 
-—————————————————
+   </td>
+   </tr>
 
-币种: ETC
+   <tr>
+   <td>
 
-内置手续费比例: 百分之1
+### 👉 **Other issues**
 
-内置匿名钱包： xxxxxxxxxxxxxx
+   <p>&emsp;&emsp;这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。</p>
 
-内置子账号: xxxxxxxxxxxx
+   </tr>
+   </td>
 
-矿池内显示设备名称: xxxxx
+</table>
 
-—————————————————
 
-币种: ETC+ZIL
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： etc匿名钱包.zil匿名钱包
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-......
-
-内置手续费矿池地址默认与软件内目标地址一致, 手续费会抽至端口的目标矿池地址,  每个币种需要提供一个匿名钱包和一个子账号,  类似BTC这种不支持匿名挖矿的矿池, 只提供子账号即可, 以确保在任意支持类型的矿池中可以正常工作
-
-如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
-
-# Other issues
-
-这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.6%作为技术回报。
+[VIPORMiner.io]: https://github.com/mine-Proxy/TcstMinerSystem
+[VIPORMiner.io-badge]: https://img.shields.io/badge/TCMiner-v4.1.0-green?logo=Rust
+[downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
+[releases]: https://github.com/mine-Proxy/TcstMinerSystem/releases
+[stars-url]: https://github.com/mine-Proxy/TcstMinerSystem/stargazers
+[stars-shield]: https://img.shields.io/github/stars/mine-Proxy/TcstMinerSystem.svg?style=flat
+[stars-url]: https://github.com/mine-Proxy/TcstMinerSystem/stargazers
