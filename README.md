@@ -6,7 +6,7 @@
 
 ### <a href="https://github.com/mine-Proxy/TcstMinerSystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
-<img src="/mine-Proxy/TcstMinerSystem/raw/main/image/1.jpg" alt="Logo">
+<img src="./image/1.jpg" alt="Logo">
 
 <br>
 <br>
