@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# <img src="./image/logo.gif" alt="Logo" width="24">TCMiner
+# <img src="./image/logo.png" alt="Logo" width="24">TcstMinerSystem
 
-### <a href="https://github.com/mine-Proxy/TCMiner">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
+### <a href="https://github.com/mine-Proxy/TcstMinerSystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
 <img src="./image/1.png" alt="Logo">
 
