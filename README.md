@@ -37,7 +37,7 @@
 
 </div>
 
-# TcstMinerSystem
+# RUSTMINERSYSTEM
 
 <table>
    <tr>
