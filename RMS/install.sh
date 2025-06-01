@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TcstMinerSystem/RMS/main/install.sh)
+#bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/RustMinerSystem/RMS/main/install.sh)
 
 clear
 
@@ -26,15 +26,15 @@ ROUTE_2="https://hub.njuu.cf"
 ROUTE_3="https://hub.yzuu.cf"
 ROUTE_4="https://hub.nuaa.cf"
 
-ROUTE_EXEC_1="/mine-Proxy/TcstMinerSystem/RMS/raw/main/x86_64-musl/rms"
-ROUTE_EXEC_2="/mine-Proxy/TcstMinerSystem/RMS/raw/main/x86_64-android/rms"
-ROUTE_EXEC_3="/mine-Proxy/TcstMinerSystem/RMS/raw/main/arm-musleabi/rms"
-ROUTE_EXEC_4="/mine-Proxy/TcstMinerSystem/RMS/raw/main/arm-musleabihf/rms"
-ROUTE_EXEC_5="/mine-Proxy/TcstMinerSystem/RMS/raw/main/armv7-musleabi/rms"
-ROUTE_EXEC_6="/mine-Proxy/TcstMinerSystem/RMS/raw/main/armv7-musleabihf/rms"
-ROUTE_EXEC_7="/mine-Proxy/TcstMinerSystem/RMS/raw/main/i586-musl/rms"
-ROUTE_EXEC_8="/mine-Proxy/TcstMinerSystem/RMS/raw/main/i686-android/rms"
-ROUTE_EXEC_9="/mine-Proxy/TcstMinerSystem/RMS/raw/main/aarch64-musl/rms"
+ROUTE_EXEC_1="/mine-Proxy/RustMinerSystem/RMS/raw/main/x86_64-musl/rms"
+ROUTE_EXEC_2="/mine-Proxy/RustMinerSystem/RMS/raw/main/x86_64-android/rms"
+ROUTE_EXEC_3="/mine-Proxy/RustMinerSystem/RMS/raw/main/arm-musleabi/rms"
+ROUTE_EXEC_4="/mine-Proxy/RustMinerSystem/RMS/raw/main/arm-musleabihf/rms"
+ROUTE_EXEC_5="/mine-Proxy/RustMinerSystem/RMS/raw/main/armv7-musleabi/rms"
+ROUTE_EXEC_6="/mine-Proxy/RustMinerSystem/RMS/raw/main/armv7-musleabihf/rms"
+ROUTE_EXEC_7="/mine-Proxy/RustMinerSystem/RMS/raw/main/i586-musl/rms"
+ROUTE_EXEC_8="/mine-Proxy/RustMinerSystem/RMS/raw/main/i686-android/rms"
+ROUTE_EXEC_9="/mine-Proxy/RustMinerSystem/RMS/raw/main/aarch64-musl/rms"
 
 TARGET_ROUTE=""
 TARGET_ROUTE_EXEC=""
