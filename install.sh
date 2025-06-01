@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="4.4.8"
-DOWNLOAD_HOST="https://github.com/mine-Proxy/TcstMinerSystem/raw/main/linux"
+DOWNLOAD_HOST="https://github.com/mine-Proxy/RustMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
 SERVICE_NAME="rustservice"
