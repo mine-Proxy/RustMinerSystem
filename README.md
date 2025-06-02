@@ -308,9 +308,9 @@
 
 
 [VIPORMiner.io]: https://github.com/mine-Proxy/RustMinerSystem
-[VIPORMiner.io-badge]: https://img.shields.io/badge/TCMiner-v4.1.0-green?logo=Rust
+[VIPORMiner.io-badge]: https://img.shields.io/badge/RustMinerSystem-v4.1.8-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/mine-Proxy/TcstMinerSystem/releases
-[stars-url]: https://github.com/mine-Proxy/TcstMinerSystem/stargazers
-[stars-shield]: https://img.shields.io/github/stars/mine-Proxy/TcstMinerSystem.svg?style=flat
-[stars-url]: https://github.com/mine-Proxy/TcstMinerSystem/stargazers
+[releases]: https://github.com/mine-Proxy/RustMinerSystem/releases
+[stars-url]: https://github.com/mine-Proxy/RustMinerSystem/stargazers
+[stars-shield]: https://img.shields.io/github/stars/mine-Proxy/RustMinerSystem.svg?style=flat
+[stars-url]: https://github.com/mine-Proxy/RustMinerSystem/stargazers
