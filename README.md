@@ -2,16 +2,16 @@
 
 <div align="center">
 
-# <img src="./image/logo.png" alt="Logo" width="24">RUSTMINERSYSTEM
+# <img src="./image/logo.png" alt="Logo" width="24">TCMINERSYSTEM
 
-### <a href="https://github.com/mine-Proxy/RustMinerSystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
+### <a href="https://github.com/mine-Proxy/TCMinerSystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
 <img src="./image/1.jpg" alt="Logo">
 
 <br>
 <br>
 
-<a href="https://github.com/mine-Proxy/TcstMinerSystem/tree/main/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/RustMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/RustMinerSystem/tree/main/i18n/zh-RU">Русский язык</a>
+<a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TCMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/i18n/zh-RU">Русский язык</a>
 
 <a href="#dingzhi">
    <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
@@ -47,7 +47,7 @@
 
 ### 👉 **服务协议**
 
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
 
@@ -81,7 +81,7 @@
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
    ```sh
-      bash <(curl -s -L https://github.com/mine-Proxy/RustMinerSystem/raw/main/install.sh) 
+      bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.sh) 
    ```
    
    <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
@@ -95,13 +95,13 @@
    &emsp;&emsp;ARM:
 
    ```sh
-     bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/RustMinerSystem/main/arm-install.sh)
+     bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/arm-install.sh)
    ```
 
    &emsp;&emsp;ARMV7:
 
    ```sh
-     bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/RustMinerSystem/main/armv7-install.sh)
+     bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/armv7-install.sh)
    ```
 
    </td>
@@ -114,7 +114,7 @@
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
    ```sh
-     https://github.com/mine-Proxy/RustMinerSystem/tree/main/windows
+     https://github.com/mine-Proxy/TCMinerSystem/tree/main/windows
    ```
 
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
@@ -245,7 +245,7 @@
 
 ### 👉 **更新日志**
 
-   <p>&emsp;&emsp;<a href="https://github.com/mine-Proxy/RustMinerSystem/releases">点击查看更新日志</a>
+   <p>&emsp;&emsp;<a href="https://github.com/mine-Proxy/TCMinerSystem/releases">点击查看更新日志</a>
 
 
    </td>
@@ -289,7 +289,7 @@
 
    <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
 
-   <p>&emsp;&emsp;<a href="https://github.com/mine-Proxy/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
+   <p>&emsp;&emsp;<a href="https://github.com/mine-Proxy/TCMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
 
    </td>
    </tr>
@@ -307,7 +307,7 @@
 </table>
 
 
-[VIPORMiner.io]: https://github.com/mine-Proxy/RustMinerSystem
+[VIPORMiner.io]: https://github.com/mine-Proxy/TCMinerSystem
 [VIPORMiner.io-badge]: https://img.shields.io/badge/RustMinerSystem-v4.1.8-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/mine-Proxy/RustMinerSystem/releases
