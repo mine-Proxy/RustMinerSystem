@@ -48,6 +48,8 @@
 ### 👉 **服务协议**
 
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+      
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;矿池中转教程 中转矿池 矿池抽水教程 中转服务器搭建。
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
 
