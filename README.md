@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="./image/logo.png" alt="Logo" width="24">TCMINERSYSTEM
+# <img src="./image/logo.png" alt="Logo" width="24">TCMINERSYSTEM矿池中转 
 
 ### <a href="https://github.com/mine-Proxy/TCMinerSystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
@@ -37,7 +37,7 @@
 
 </div>
 
-# RUSTMINERSYSTEM
+# TCMINERSYSTEM矿池中转教程 
 
 <table>
    <tr>
@@ -47,7 +47,7 @@
 
 ### 👉 **服务协议**
 
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;矿池中转，解决矿池连接不上的问题。 中转矿池的方式主要有两种：自搭中转服务器、使用中转平台。自搭中转服务器需要购买海外服务器，也需要些许的计算机操作基础。因此，建议小白用户直接使用现成的中转平台，简单修改挖矿地址即可。
       
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;矿池中转教程 中转矿池 矿池抽水教程 中转服务器搭建。
 
